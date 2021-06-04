@@ -4,16 +4,16 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Sample website with plenty of files for demos
+Sample intro for anyone new to this
 
 ## Deployment
 
-Sample website with plenty of files for demos
+Instructions on how to deploy
 
 ## Purpose
 
-Sample website with plenty of files for demos
+What the purpose of this project is
 
 ## How To Contribute
 
-Sample website with plenty of files for demos
+Info on how to contribute to the project
